@@ -1,6 +1,6 @@
 MathematicsNotes
 ===
-**GitHub** 地址：https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+**GitHub** 地址：https://github.com/cikirt/MathematicsNotes.git
 
 **说明**（2019-03-06）：此项目只为了记录数学学习历程(学前-本科),表述一定不会出现前文没提到过的符号或者数学概念。  
 终极目标：0 障碍学习所有数学基本概念。欢迎感兴趣的同学加入。  
