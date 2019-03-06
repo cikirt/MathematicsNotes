@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode/
+
+# folder
+__*/
+.ipynb_checkpoints/
+out/
+
+# file
+-*
+*.zip
+*.tgz
+
+
